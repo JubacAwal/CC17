@@ -3,11 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/drawable/bg_bottomdb.xml" value="0.2355" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/drawable/bg_dashboard.xml" value="0.1695" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/drawable/bg_dashbt.xml" value="0.2465" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/drawable/bg_dashbtleft.xml" value="0.2465" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/drawable/bg_topdb.xml" value="0.2585" />
         <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/drawable/btn_bg.xml" value="0.189" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/drawable/ic_baseline_shopping_bag_24.xml" value="0.207" />
         <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/drawable/input_bg.xml" value="0.1705" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/layout/activity_login.xml" value="0.278125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/drawable/search_bgdb.xml" value="0.2465" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/layout/activity_main.xml" value="0.27314814814814814" />
         <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PharmaPill/app/src/main/res/layout/activity_splash.xml" value="0.25" />
       </map>
     </option>
   </component>
